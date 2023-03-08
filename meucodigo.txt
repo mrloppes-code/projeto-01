@@ -1,2 +1,4 @@
 Olá, esse é o meu primeiro texto upado para o GitHub.
 Se você chegou aqui, saiba que aqui, começou uma longa história.
+
+Agora nós aprendemos a fazer branchs e estamos upando diferentes versões para o Github.
